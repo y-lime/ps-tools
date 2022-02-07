@@ -1,0 +1,1 @@
+powershell -WindowStyle Hidden -ExecutionPolicy RemoteSigned -command ".\urlcode.ps1"
